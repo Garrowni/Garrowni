@@ -12,11 +12,26 @@
 </div>
 <h1>
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> It's a work in progress.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
+
+
+### :lizard: I am a DevOps Engineer from Canada.
+
+
+- 🔭 I’m currently working as a DevOps Engineer working primarily with Terraform, CircleCI, Bash, AWS, and GCP
+- 🌱 I’m currently learning Kubernetes, Docker, and Python
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nicole_Garrow-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolegarrow/)
+- :rocket: Currently playing Starfield
+- ⚡ Fun fact about me... I have a dragon named Ada :dragon:
 
 ---
 
+<img src="https://media.giphy.com/media/14bWswbeWGzYEo/giphy.gif">
+
+---
+
+### :hammer_and_wrench: Tools and Things :hammer_and_wrench:
 <!-- Great for finding logos https://www.vectorlogo.zone/ -->
 <div id="workedWithSec1" align="center" >
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCi" style="background-color:white;height:40; width:40;"/>
@@ -50,19 +65,3 @@
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" style="height:40; width:40;"/>
 
 </div>
-
-
-
----
-### :lizard: I am a DevOps Engineer from Canada.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Kubernetes, Docker, and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
