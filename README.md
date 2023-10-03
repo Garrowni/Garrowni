@@ -14,7 +14,8 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
-<h5>Previously I have always used my corporate github accounts, but I have decided its time to start showing off some personal projects and course work!</h5>
+
+Previously I have always used my corporate github accounts, but I have decided its time to start showing off some personal projects and course work!
 
 ---
 
@@ -34,9 +35,11 @@
 ---
 
 :hammer_and_wrench: Tools and Languages :hammer_and_wrench:
-<!-- Great for finding logos https://www.vectorlogo.zone/ -->
-<center> CI/CD </center>
 
+<!-- Great for finding logos https://www.vectorlogo.zone/ -->
+
+
+<p align="center"> CI/CD </p>
 <div id="workedWithCICD" align="center" >
   <a href="https://circleci.com/">
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCi" style="background-color:white;height:40; width:40;"/>
@@ -46,8 +49,7 @@
   </a>
 </div>
 
-
-<center> Infrastructure as Code </center>
+<p align="center"> Infrastructure as Code </p>
 
 <div id="workedWithIAC" align="center">
   <a href="https://www.terraform.io/">
@@ -59,7 +61,7 @@
 </div>
 
 
-<center> Coding and Scripting </center>
+<p align="center"> Coding and Scripting </p>
 <div id="workedWithCoding" align="center" >
   <a href=https://www.gnu.org/software/bash/">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="background-color:white;height:40; width:40;"/>
@@ -85,7 +87,7 @@
 </div>
 
 
-<center> Containers and Container Orchestration </center>
+<p align="center">  Containers and Container Orchestration </p>
 
 <div id="workedWithContainers" align="center" >
   <a href="https://www.docker.com/">
@@ -99,7 +101,7 @@
   </a>
 </div>
 
-<center> Monitoring and Observability </center>
+<p align="center">  Monitoring and Observability </p>
 
 <div id="workedWithMonitoring" align="center">
   <a href="https://prometheus.io/">
@@ -111,7 +113,7 @@
 </div>
 
 
-<center> Cloud </center>
+<p align="center">  Cloud </p>
 
 <div id="workedWithCloud" align="center" >
   <a href="https://aws.amazon.com/">
@@ -123,7 +125,7 @@
 </div>
 
 
-<center> Database(s) </center>
+<p align="center">  Database(s) </p>
 
 <div id="workedWithDB" align="center" >
   <a href="https://www.mysql.com/">
@@ -131,7 +133,7 @@
   </a>
 </div>
 
-<center> Package Managers and Artifact Repositories</center>
+<p align="center"> Package Managers and Artifact Repositories</p>
 
 <div id="workedWithRegistries" align="center">
   <a href="https://www.npmjs.com/">
@@ -143,3 +145,4 @@
 
 
 </div>
+</p>
