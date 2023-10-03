@@ -39,8 +39,8 @@ Previously I have always used my corporate github accounts, but I have decided i
 <!-- Great for finding logos https://www.vectorlogo.zone/ -->
 
 
-<p align="center"> CI/CD </p>
-<div id="workedWithCICD" align="center" >
+CI/CD
+<div id="workedWithCICD">
   <a href="https://circleci.com/">
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCi" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -49,9 +49,9 @@ Previously I have always used my corporate github accounts, but I have decided i
   </a>
 </div>
 
-<p align="center"> Infrastructure as Code </p>
+Infrastructure as Code
 
-<div id="workedWithIAC" align="center">
+<div id="workedWithIAC">
   <a href="https://www.terraform.io/">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" style="height:40; width:40;"/>
   </a>
@@ -61,8 +61,8 @@ Previously I have always used my corporate github accounts, but I have decided i
 </div>
 
 
-<p align="center"> Coding and Scripting </p>
-<div id="workedWithCoding" align="center" >
+Coding and Scripting
+<div id="workedWithCoding" >
   <a href=https://www.gnu.org/software/bash/">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -87,9 +87,9 @@ Previously I have always used my corporate github accounts, but I have decided i
 </div>
 
 
-<p align="center">  Containers and Container Orchestration </p>
+Containers and Container Orchestration
 
-<div id="workedWithContainers" align="center" >
+<div id="workedWithContainers">
   <a href="https://www.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -101,9 +101,9 @@ Previously I have always used my corporate github accounts, but I have decided i
   </a>
 </div>
 
-<p align="center">  Monitoring and Observability </p>
+Monitoring and Observability
 
-<div id="workedWithMonitoring" align="center">
+<div id="workedWithMonitoring">
   <a href="https://prometheus.io/">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" style="height:40; width:40;"/>
   </a>
@@ -113,9 +113,9 @@ Previously I have always used my corporate github accounts, but I have decided i
 </div>
 
 
-<p align="center">  Cloud </p>
+Cloud
 
-<div id="workedWithCloud" align="center" >
+<div id="workedWithCloud">
   <a href="https://aws.amazon.com/">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" style="height:40; width:40;"/>
   </a>
@@ -125,17 +125,17 @@ Previously I have always used my corporate github accounts, but I have decided i
 </div>
 
 
-<p align="center">  Database(s) </p>
+Database(s)
 
-<div id="workedWithDB" align="center" >
+<div id="workedWithDB">
   <a href="https://www.mysql.com/">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" style="background-color:white; height:40; width:40;">
   </a>
 </div>
 
-<p align="center"> Package Managers and Artifact Repositories</p>
+Package Managers and Artifact Repositories
 
-<div id="workedWithRegistries" align="center">
+<div id="workedWithRegistries">
   <a href="https://www.npmjs.com/">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" style="height:40; width:40;"/>
   </a>
