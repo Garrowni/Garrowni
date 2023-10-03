@@ -14,7 +14,8 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
-<h5>Previously I have always used my corporate github accounts, but I have decided its time to start showing off some personal projects and course work!</h5>
+
+Previously I have always used my corporate github accounts, but I have decided its time to start showing off some personal projects and course work!
 
 ---
 
@@ -34,10 +35,12 @@
 ---
 
 :hammer_and_wrench: Tools and Languages :hammer_and_wrench:
-<!-- Great for finding logos https://www.vectorlogo.zone/ -->
-<center> CI/CD </center>
 
-<div id="workedWithCICD" align="center" >
+<!-- Great for finding logos https://www.vectorlogo.zone/ -->
+
+
+CI/CD
+<div id="workedWithCICD">
   <a href="https://circleci.com/">
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCi" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -46,10 +49,9 @@
   </a>
 </div>
 
+Infrastructure as Code
 
-<center> Infrastructure as Code </center>
-
-<div id="workedWithIAC" align="center">
+<div id="workedWithIAC">
   <a href="https://www.terraform.io/">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" style="height:40; width:40;"/>
   </a>
@@ -59,8 +61,8 @@
 </div>
 
 
-<center> Coding and Scripting </center>
-<div id="workedWithCoding" align="center" >
+Coding and Scripting
+<div id="workedWithCoding" >
   <a href=https://www.gnu.org/software/bash/">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -85,9 +87,9 @@
 </div>
 
 
-<center> Containers and Container Orchestration </center>
+Containers and Container Orchestration
 
-<div id="workedWithContainers" align="center" >
+<div id="workedWithContainers">
   <a href="https://www.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" style="background-color:white;height:40; width:40;"/>
   </a>
@@ -99,9 +101,9 @@
   </a>
 </div>
 
-<center> Monitoring and Observability </center>
+Monitoring and Observability
 
-<div id="workedWithMonitoring" align="center">
+<div id="workedWithMonitoring">
   <a href="https://prometheus.io/">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" style="height:40; width:40;"/>
   </a>
@@ -111,9 +113,9 @@
 </div>
 
 
-<center> Cloud </center>
+Cloud
 
-<div id="workedWithCloud" align="center" >
+<div id="workedWithCloud">
   <a href="https://aws.amazon.com/">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" style="height:40; width:40;"/>
   </a>
@@ -123,17 +125,17 @@
 </div>
 
 
-<center> Database(s) </center>
+Database(s)
 
-<div id="workedWithDB" align="center" >
+<div id="workedWithDB">
   <a href="https://www.mysql.com/">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" style="background-color:white; height:40; width:40;">
   </a>
 </div>
 
-<center> Package Managers and Artifact Repositories</center>
+Package Managers and Artifact Repositories
 
-<div id="workedWithRegistries" align="center">
+<div id="workedWithRegistries">
   <a href="https://www.npmjs.com/">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" style="height:40; width:40;"/>
   </a>
@@ -143,3 +145,4 @@
 
 
 </div>
+</p>
