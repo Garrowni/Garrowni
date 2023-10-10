@@ -36,29 +36,29 @@ Previously I have always used my corporate github accounts, but I have decided i
 ## What Others Have to Say About Me.
 
 :llama:  Colleagues Over LinkedIn :llama:
-> "Nicole's growth as a DevOps Engineer is truly remarkable. Her ability to rapidly acquire and implement new technologies speaks volumes about her dedication and adaptability. What's even more commendable is her unwavering support and willingness to assist whenever needed. Nicole without fail always has the brightest smile during morning standup and has been an absolute pleasure to work with." - Joel K.
+> "Nicole's growth as a DevOps Engineer is truly remarkable. Her ability to rapidly acquire and implement new technologies speaks volumes about her dedication and adaptability. What's even more commendable is her unwavering support and willingness to assist whenever needed. Nicole without fail always has the brightest smile during morning standup and has been an absolute pleasure to work with." - <a href="https://www.linkedin.com/in/joel-kerfoot/">Joel Kerfoot</a>
 
->"Nicole and I joined Paystone in the same cohort over a year ago. Since then, I've seen Nicole grow from strength to strength in her role as a DevOps Engineer. She is fearless in learning new technologies and jumping in to help anyone in need. If you are looking for a self-starter with a strong ability to learn and adapt, I highly recommend Nicole." - Chad C.
+>"Nicole and I joined Paystone in the same cohort over a year ago. Since then, I've seen Nicole grow from strength to strength in her role as a DevOps Engineer. She is fearless in learning new technologies and jumping in to help anyone in need. If you are looking for a self-starter with a strong ability to learn and adapt, I highly recommend Nicole." - <a href="https://www.linkedin.com/in/chadmcromwell/">Chad Crowell</a>
 
->"If your DevSecOps team is missing an exceptional person, I cannot recommend anyone more highly than Nicole. She combines solid engineering instincts with a huge capacity for absorbing new technologies and applying those to find the best solution to a complex problem." - Steve N.
+>"If your DevSecOps team is missing an exceptional person, I cannot recommend anyone more highly than Nicole. She combines solid engineering instincts with a huge capacity for absorbing new technologies and applying those to find the best solution to a complex problem."  - <a href="https://www.linkedin.com/in/steve-nield-20479914/">Steve Nield</a>
 
 > "If your DevSecOps team is missing an exceptional person, I cannot recommend anyone more highly than Nicole. She combines solid engineering instincts with a huge capacity for absorbing new technologies and applying those to find the best solution to a complex problem. Here is a small slice of the impact she has had here at Paystone:
 >1. Increased the velocity with which we can ship product changes by reducing the duration of our automated checks by 62%
 >2. Increased reliability of the NiceJob app by implementing an automated check against any product change which ensures the correct level of test-coverage
 >3. Led a migration of all ML infrastructure to a dedicated GCP project
->4. Increased security of our billing systems by consolidating and normalizing IAM bindings across a complex, distributed, legacy architecture " - Steve N.
+>4. Increased security of our billing systems by consolidating and normalizing IAM bindings across a complex, distributed, legacy architecture " - <a href="https://www.linkedin.com/in/steve-nield-20479914/">Steve Nield</a>
 
 
 :fireworks: Colleagues at Paystone When I got Promoted :fireworks:
->“Nicole is a pleasure to work with due to her attention to detail, tenacity, and positive attitude that reflects a “can do” spirit. She has made invaluable contributions, including her recent achievements in improving the quality our codebase through E2E testing with Cypress and the successful implementation of code coverage rules and reporting, Nicole’s hard work is truly commendable, and I extend my heartfelt congratulations on her well-deserved promotion.”  - Alex Z.
+>“Nicole is a pleasure to work with due to her attention to detail, tenacity, and positive attitude that reflects a “can do” spirit. She has made invaluable contributions, including her recent achievements in improving the quality our codebase through E2E testing with Cypress and the successful implementation of code coverage rules and reporting, Nicole’s hard work is truly commendable, and I extend my heartfelt congratulations on her well-deserved promotion.”  - <a href="https://www.linkedin.com/in/alexzvaniga/">Alex Zvaniga</a>
 
->“Since Nicole has joined the DevOps team, she has demonstrated an unending desire to learn and grow in her position. This growth has been a great asset to us as we have been able to give her large projects and she has been able to take these on independently allowing DevOps to cover more ground.” - Mark D.
+>“Since Nicole has joined the DevOps team, she has demonstrated an unending desire to learn and grow in her position. This growth has been a great asset to us as we have been able to give her large projects and she has been able to take these on independently allowing DevOps to cover more ground.” - <a href="https://www.linkedin.com/in/mark-debaets-9a046a13b/">Mark DeBaets</a>
 
->“Nicole has an infectious positive energy that makes working on any project with her a lot of fun. I’ve also learned a lot from her, not least because she is always willing to take the time to help out and share knowledge.” - Nash T.
+>“Nicole has an infectious positive energy that makes working on any project with her a lot of fun. I’ve also learned a lot from her, not least because she is always willing to take the time to help out and share knowledge.” - <a href="https://www.linkedin.com/in/nashtaylor22/">Nash Taylor</a>
 
->“It has been an absolute pleasure to work with Nicole over the past year. We have been able to overcome many challenges and persevere time and time again through our continued collaboration. Being able to confide in Nicole with regards to both work and life matters has been an incredible source of support and a true blessing. Thanks Nicole and congratulations on your well-deserved promotion!” - Dylan M.
+>“It has been an absolute pleasure to work with Nicole over the past year. We have been able to overcome many challenges and persevere time and time again through our continued collaboration. Being able to confide in Nicole with regards to both work and life matters has been an incredible source of support and a true blessing. Thanks Nicole and congratulations on your well-deserved promotion!” - <a href="https://www.linkedin.com/in/dylanmasschelein/">Dylan Masschelein</a>
 
->“Nicole and I joined Paystone at the same time and have worked pretty closely since. Her fearlessness and proactive approach to things has always impressed me. It’s been great witnessing her grow in her role and I’m excited to see where her future takes her!” - Chad C.
+>“Nicole and I joined Paystone at the same time and have worked pretty closely since. Her fearlessness and proactive approach to things has always impressed me. It’s been great witnessing her grow in her role and I’m excited to see where her future takes her!”  - <a href="https://www.linkedin.com/in/chadmcromwell/">Chad Crowell</a>
 
 ---
 
