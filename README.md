@@ -42,6 +42,10 @@ Previously I have always used my corporate github accounts, but I have decided i
 
 >"If your DevSecOps team is missing an exceptional person, I cannot recommend anyone more highly than Nicole. She combines solid engineering instincts with a huge capacity for absorbing new technologies and applying those to find the best solution to a complex problem."  - <a href="https://www.linkedin.com/in/steve-nield-20479914/">Steve Nield</a>
 
+> "Nicole is a quick learner and a hard worker. She's a pleasure to work with, always having a smile on her face, and always willing to jump into a new challenges and lend a helping hand." - <a href="https://www.linkedin.com/in/richard-gibert/">Richard Gibert</a>
+
+>"Nicole is a truly nice person and an excellent co-worker"<a href="https://www.linkedin.com/in/tomo-nikolovski/">Tomo Nikolovski</a>
+
 > "If your DevSecOps team is missing an exceptional person, I cannot recommend anyone more highly than Nicole. She combines solid engineering instincts with a huge capacity for absorbing new technologies and applying those to find the best solution to a complex problem. Here is a small slice of the impact she has had here at Paystone:
 >1. Increased the velocity with which we can ship product changes by reducing the duration of our automated checks by 62%
 >2. Increased reliability of the NiceJob app by implementing an automated check against any product change which ensures the correct level of test-coverage
